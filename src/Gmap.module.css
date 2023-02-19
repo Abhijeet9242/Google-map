@@ -5,8 +5,9 @@
 }
 
 .container {
-  height: 660px;
-  background-color: #fad6a5;
+  height: 670px;
+  /* background-color: #fad6a5; */
+  background-color: #E6DDC4;
   margin: auto;
 }
 .mapcont {
@@ -16,11 +17,12 @@
 }
 .head {
   text-align: center;
-  color: black;
+  color: #ffffff;
   font-size: 35px;
   font-weight: bold;
   margin-bottom: 20px;
-  background-color: #cfb997;
+  /* background-color: #cfb997; */
+  background-color: #181D31;
   padding: 5px 0px;
 }
 .ipdiv {
@@ -40,7 +42,7 @@
   cursor: pointer;
 }
 .ipdiv > button:hover {
-  background-color: black;
+  background-color: #181D31;
   color: #ffffff;
 }
 .route input {
@@ -70,7 +72,8 @@
   border-radius: 8px;
   font-size: 14px;
   font-weight: bold;
-  background-color: #567189;
+  /* background-color: #567189; */
+  background-color: #678983;
   color: #ffffff;
   cursor: pointer;
 }
@@ -83,7 +86,7 @@
   margin-right: 5px;
   font-size: 14px;
   font-weight: bold;
-  background-color: #567189;
+  background-color: #678983;
   color: #ffffff;
   cursor: pointer;
 }
